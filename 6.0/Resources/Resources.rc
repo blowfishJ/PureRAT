@@ -1,0 +1,5 @@
+GEOIP geoipfile GeoIp.dat
+STUB stubfile Stub.exe
+UPX upxfile upx.exe
+MPRESS mpressfile mpress.exe
+PLUGIN pluginfile Plugin.dll
